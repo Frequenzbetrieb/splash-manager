@@ -5,7 +5,7 @@
     "author": "DJ MR. BROWN",
     "category": "ui",
     "license": "MIT",
-    "sourceUrl": "https://github.com/Cd1s/EngineX-OS/issues/170",
+    "sourceUrl": "https://github.com/Frequenzbetrieb/splash-manager",
     "description": "Custom Engine QML startup splash manager. Open http://<deck-ip>:8081 to upload a custom PNG splash screen via drag-and-drop. Supports both 16:10 and 16:9 screen models. Backs up originals and restores them on stop/uninstall.",
     "script": "start.sh"
 }
